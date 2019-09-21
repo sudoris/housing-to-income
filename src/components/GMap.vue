@@ -31,7 +31,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style>
+<style lang="scss">
   .google-map {
     width: 100%;
     height: 100%;
